@@ -1,3 +1,4 @@
+package recursion
 object BinaryRepresentation {
 	def main(args: Array[String]): Unit = {
 		printDecimalToBinary(8)

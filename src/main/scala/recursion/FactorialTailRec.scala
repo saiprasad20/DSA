@@ -1,3 +1,4 @@
+package recursion
 object FactorialTailRec {
 	def main(args: Array[String]): Unit = {
 		println(factorial(5, 1))

@@ -1,3 +1,4 @@
+package recursion
 object PrintNTo1 {
 	def main(args: Array[String]): Unit = {
 		printNTo1(5)

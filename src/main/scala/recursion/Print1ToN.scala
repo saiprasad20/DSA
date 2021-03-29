@@ -1,3 +1,4 @@
+package recursion
 object Print1ToN {
 	def main(args: Array[String]): Unit = {
 		print1ToN(7)

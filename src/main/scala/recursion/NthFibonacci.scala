@@ -1,3 +1,4 @@
+package recursion
 object NthFibonacci {
 	def main(args: Array[String]): Unit = {
 		println(nthFibonacci(5))
